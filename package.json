@@ -5,7 +5,7 @@
   "main": "irys_mint.js",
   "type": "module",
   "scripts": {
-    "start": "node aa.js"
+    "start": "node irys_mint.js"
   },
   "dependencies": {
     "ethers": "^6.8.0",
