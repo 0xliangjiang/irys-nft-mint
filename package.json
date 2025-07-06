@@ -1,0 +1,22 @@
+{
+  "name": "irys-nft-mint",
+  "version": "1.0.0",
+  "description": "Irys链 NFT 铸造工具",
+  "main": "aa.js",
+  "type": "module",
+  "scripts": {
+    "start": "node aa.js"
+  },
+  "dependencies": {
+    "ethers": "^6.8.0",
+    "web3": "^4.2.0"
+  },
+  "keywords": [
+    "irys",
+    "nft",
+    "blockchain",
+    "mint"
+  ],
+  "author": "",
+  "license": "MIT"
+}
