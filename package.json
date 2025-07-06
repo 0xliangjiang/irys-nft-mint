@@ -2,7 +2,7 @@
   "name": "irys-nft-mint",
   "version": "1.0.0",
   "description": "Irys链 NFT 铸造工具",
-  "main": "aa.js",
+  "main": "irys_mint.js",
   "type": "module",
   "scripts": {
     "start": "node aa.js"
